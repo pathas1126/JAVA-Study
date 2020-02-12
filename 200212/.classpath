@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/webtest/3.java/학원 진도/19일차(소켓프로그래밍(채팅),JDBC 개요 및 작성법/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
